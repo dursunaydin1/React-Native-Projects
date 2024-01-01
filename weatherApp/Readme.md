@@ -19,4 +19,4 @@ Uygulama başladığında, kullanıcı hoş geldin ekranını görecektir. Ardı
 
 ## Gif
 
-![Proje Ekran Görüntüsü](/src/assetes/screen.gif)
+![Proje Ekran Görüntüsü](src/assets/screen.gif)
