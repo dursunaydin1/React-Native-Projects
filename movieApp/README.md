@@ -74,4 +74,4 @@ Projeyi klonlayın ve aşağıdaki adımları takip edin:
 
 ## Gif
 
-![Proje Ekran Görüntüsü](/src/assetes/screen.gif)
+![Proje Ekran Görüntüsü](src/assetes/screen.gif)
