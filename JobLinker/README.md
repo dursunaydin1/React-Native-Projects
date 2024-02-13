@@ -35,12 +35,12 @@ Profil ekranı, kullanıcıların kişisel bilgilerini görüntüleyebileceği v
 
 ## Ekran Görüntüleri
 
-!(./src/images/screens/Screenshot_1.png =250x150)
-!(./src/images/screens/Screenshot_2.png =250x150)
-!(./src/images/screens/Screenshot_3.png =250x150)
-!(./src/images/screens/Screenshot_4.png =250x150)
-!(./src/images/screens/Screenshot_5.png =250x150)
-!(./src/images/screens/Screenshot_6.png =250x150)
-!(./src/images/screens/Screenshot_7.png =250x150)
-!(./src/images/screens/Screenshot_8.png =250x150)
-!(./src/images/screens/Screenshot_9.png =250x150)
+<img src="./src/images/screens/Screenshot_1.png" alt="" width="250" height="150">
+<img src="./src/images/screens/Screenshot_2.png" alt="" width="250" height="150">
+<img src="./src/images/screens/Screenshot_3.png" alt="" width="250" height="150">
+<img src="./src/images/screens/Screenshot_4.png" alt="" width="250" height="150">
+<img src="./src/images/screens/Screenshot_5.png" alt="" width="250" height="150">
+<img src="./src/images/screens/Screenshot_6.png" alt="" width="250" height="150">
+<img src="./src/images/screens/Screenshot_7.png" alt="" width="250" height="150">
+<img src="./src/images/screens/Screenshot_8.png" alt="" width="250" height="150">
+<img src="./src/images/screens/Screenshot_9.png" alt="" width="250" height="150">
