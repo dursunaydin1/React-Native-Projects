@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233858309226",
+    "project_id": "joblinker111",
+    "storage_bucket": "joblinker111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233858309226:android:dfb0571dedf1a356e2fe13",
+        "android_client_info": {
+          "package_name": "com.joblinker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwB_Mz-2pDeNDI4M9sRQC2wEBlkkShQkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
